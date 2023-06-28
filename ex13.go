@@ -27,7 +27,6 @@ func main() {
 		}
 	}
 
-	// Exibir o resultado
 	if crescente {
 		fmt.Println("A sequência é crescente.")
 	} else {
